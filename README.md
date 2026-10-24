@@ -1,0 +1,1 @@
+fine-grained classification of 37 cat and dog breeds on Oxford-IIIT Pet dataset, implemented with convolutional neural network architecture
