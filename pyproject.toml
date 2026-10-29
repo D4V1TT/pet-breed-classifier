@@ -8,8 +8,14 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "gradio>=6.31.0",
     "matplotlib>=3.11.2",
     "numpy>=2.5.4",
+    "onnx>=1.23.2",
+    "onnxruntime>=1.31.1",
+    "onnxscript>=0.7.2",
+    "pandas>=3.1.0",
+    "scikit-learn>=1.9.1",
 ]
 
 [project.scripts]

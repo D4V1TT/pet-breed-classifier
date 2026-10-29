@@ -222,3 +222,12 @@ __marimo__/
 #data
 data/
 *.pt
+
+#model files
+*.onnx
+*.onnx.data
+
+#tools
+.idea/
+.gradio/
+flagged/
