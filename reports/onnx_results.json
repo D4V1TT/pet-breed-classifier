@@ -1,0 +1,1 @@
+[{"Version": "PyTorch FP32", "Size (MB)": 44.862, "CPU latency (ms/img)": 76.444, "Test Accuracy": 0.897}, {"Version": "ONNX FP32", "Size (MB)": 44.846, "CPU latency (ms/img)": 60.006, "Test Accuracy": 0.898}, {"Version": "ONNX INT8", "Size (MB)": 11.275, "CPU latency (ms/img)": 510.54, "Test Accuracy": 0.899}]
